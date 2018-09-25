@@ -1,0 +1,11 @@
+# The prime factors of 13195 are 5, 7, 13 and 29.
+#
+# What is the largest prime factor of the number 600851475143?
+
+class Euler003:
+    def call(self):
+        pass
+
+if __name__ == '__main__':
+    print(Euler003().call(600851475143))
+
