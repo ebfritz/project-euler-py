@@ -1,0 +1,3 @@
+# run `pip install -r requirements.txt` to apply this file
+pytest
+pytest-watch

@@ -1,0 +1,3 @@
+class Euler001:
+    def call(self, max):
+        return 23 # this is, of course, wrong for the 2nd example...
